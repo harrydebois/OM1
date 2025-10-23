@@ -1,6 +1,5 @@
 ## Contributing to OM1
-
-We welcome contributions from the community!  OM1 is an open-source project, and we appreciate your help in making it better.  Whether you're fixing bugs, adding features, improving documentation, or suggesting new ideas, your contributions are valuable.
+We welcome contributions from the community!  OM1 is an open-source project, and we appreciate your help in making it better. Whether you're fixing bugs, adding features, improving documentation, or suggesting new ideas, your contributions are valuable.
 
 Before contributing, please take a moment to read through the following guidelines. This helps streamline the process and ensures everyone is on the same page.
 
